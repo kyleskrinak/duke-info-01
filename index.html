@@ -2,6 +2,9 @@
 layout: default
 ---
 
+{% capture my-include %}{% include intro.md %}{% endcapture %}
+{{ my-include | markdownify }}
+
 <div class="posts">
   {% for post in site.posts %}
     <article class="post">
