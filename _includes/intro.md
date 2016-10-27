@@ -1,6 +1,6 @@
 ## The essentials
 
-I am the manager of Web Development and Systems Administration for the [Trinity College of Arts &amp; Science’s](https://trinity.duke.edu/) Technology Systems (TTS) 
+I am the manager of Web Development and Systems Administration for the [Trinity College of Arts &amp; Science’s](https://trinity.duke.edu/) Technology Systems (TTS) at [Duke University](https://duke.edu).
 
 Please use <tts-websys-projects@duke.edu> for all support-related correspondence. This will better ensure our team can better help you.
 
