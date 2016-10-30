@@ -19,6 +19,17 @@ body {
     /* when primary navigation is visible, the content in the background won't scroll */
     overflow: hidden;
   }
+  &::after {
+    content: "";
+    background-image: url("../../images/lightpaperfibers.png");
+    opacity: 1;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    position: absolute;
+    z-index: -1;
+  }
 }
 
 h1, h2, h3, h4, h5, h6 {
