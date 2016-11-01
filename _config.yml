@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Kyle Skrinak"
 title_separator          : "|"
 name                     : "Kyle Skrinak"
-description              : "Kyle Skrinak&rsquo;s Professional information"
+description              : "Kyle Skrinak, IT Manager at the Trinity College of Arts &amp; Sciences, for Duke University"
 url                      : "http://people.duke.edu" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/~kds38" # the subpath of your site, e.g. "/blog"
 repository               : "kyleskrinak/duke-info-01" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -58,6 +58,7 @@ defaults:
       comments: true
       share: true
       related: true
+      author_profile: true
 
 # SEO Related
 google_site_verification :
