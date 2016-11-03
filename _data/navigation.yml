@@ -2,3 +2,6 @@
 main:
   - title: "Links"
     url: /links.html
+
+  - title: "Calendar"
+    url: /calendar.html
