@@ -399,3 +399,21 @@
   font-size: $type-size-6;
   text-transform: uppercase;
 }
+
+// layout-specific overrides
+
+.layout--default {
+  &>h1 {
+    margin-top: 1em;
+  }
+  &>p, &>h1 {
+    margin-left: 20px;
+  }
+}
+
+.iframe-wrapper {
+  background-image: url(../../images/waiting.gif);
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
