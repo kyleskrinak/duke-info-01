@@ -18,3 +18,5 @@ Phone: 919 684 9162
 ## How to find my office
 
 We are located in at [Brightleaf Square](http://historicbrightleaf.com/directions/ "Directions to Brightleaf Square"), in Durham NC. There is free visitor parking off S. Main Street, between S. Duke St and S. Gregson St, but remember we’ll need to validate your parking ticket. We are located on the floor above the El Rodeo restaurant.
+
+Click [here](location.html) for a map view of our office.

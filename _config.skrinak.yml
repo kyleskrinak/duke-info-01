@@ -1,0 +1,2 @@
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
+url                      : "http://kyle.skrinak.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"

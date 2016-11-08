@@ -5,3 +5,6 @@ main:
 
   - title: "Calendar"
     url: /calendar.html
+
+  - title: "Location"
+    url: /location.html
