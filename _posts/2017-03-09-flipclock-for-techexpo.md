@@ -12,6 +12,8 @@ comments: true
 
 I found a replacement countdown js widget to replace the garish one we used last year.
 
+You can find the source code here: <a href="http://flipclockjs.com/">http://flipclockjs.com/</a>
+
 <div class="clock" markdown="1"></div>
 
 <script type="text/javascript">
