@@ -195,6 +195,10 @@ body:hover .visually-hidden button {
     color: $dribbble-color;
   }
 
+  .fa-drupal {
+    color: $drupal-color;
+  }
+
   .fa-facebook,
   .fa-facebook-square {
     color: $facebook-color;
@@ -483,7 +487,7 @@ a.reversefootnote {
 
 /*
    Responsive Video Embed
-      ========================================================================== */
+   ========================================================================== */
 
 .responsive-video-container {
   position: relative;
@@ -504,3 +508,10 @@ a.reversefootnote {
   }
 }
 
+// full screen video fixes
+:-webkit-full-screen-ancestor {
+   .masthead,
+   .page__footer {
+    position: static;
+  }
+}
