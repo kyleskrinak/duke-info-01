@@ -5,6 +5,8 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
+minimal_mistakes_skin    : "default" # "air", "contrast", "dark", "dirt", "mint", "sunrise"
+
 # Site Settings
 locale                   : "en-US"
 title                    : "Kyle Skrinak"
@@ -29,43 +31,33 @@ comments:
     num_posts            : 5 (default)
     colorscheme          : "light" # "light" (default), "dark"
 staticman:
-  allowedFields          : ['name', 'email', 'url', 'message']
-  branch                 : "master"
-  commitMessage          : "New comment."
-  filename               : comment-{@timestamp}
-  format                 : "yml"
-  moderation             : true
-  path                   : "docs/_data/comments/{options.slug}" # "/_data/comments/{options.slug}" (default)
-  requiredFields         : ['name', 'email', 'message']
+  allowedFields          : # ['name', 'email', 'url', 'message']
+  branch                 : # "master"
+  commitMessage          : # "New comment."
+  filename               : # comment-{@timestamp}
+  format                 : # "yml"
+  moderation             : # true
+  path                   : # "/_data/comments/{options.slug}" (default)
+  requiredFields         : # ['name', 'email', 'message']
   transforms:
-    email                : "md5"
+    email                : # "md5"
   generatedFields:
     date:
-      type               : "date"
+      type               : # "date"
       options:
-        format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
+        format           : # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
+reCaptcha:
+  siteKey                :
+  secret                 :
 atom_feed:
   path                   : # blank (default) uses feed.xml
-
-# Defaults
-defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
 
 # SEO Related
 google_site_verification :
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
+naver-site-verification  :
 
 # Social Sharing
 twitter:
@@ -92,7 +84,7 @@ analytics:
 # Site Author
 author:
   name             : "Kyle Skrinak"
-  avatar           : "https://secure.gravatar.com/avatar/ff8a556b0c640770c8e933d7b5f57631?s=98"
+  avatar           : "https://s.gravatar.com/avatar/ff8a556b0c640770c8e933d7b5f57631?s=80"
   bio              : "IT Manager, Web Development and Systems Administration, for <a href=\"http://trinity.duke.edu\" title=\"Trinity&rsquo;s web site\">Trinity College of Arts &amp; Sciences Technology Services</a>, <a href=\"http://duke.edu\" title=\"Duke&rsquo;s web site\">Duke University</a>"
   location         : "<a style=\"display: inline-block\" href=\"https://goo.gl/maps/8TmAf96K2M82\">Durham, NC</a>"
   email            : "kyle.skrinak@duke.edu"
@@ -105,6 +97,7 @@ author:
   facebook         :
   foursquare       :
   github           : "kyleskrinak"
+  gitlab           :
   google_plus      :
   keybase          :
   instagram        :
@@ -189,11 +182,11 @@ sass:
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
-# Plugins
-gems:
+# Plugins (previously gems:)
+plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
@@ -244,4 +237,18 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+# Defaults
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
 

@@ -57,7 +57,7 @@ The Liquid based taxonomy archives found amongst the demo pages rely on this hel
 | Description                   |                          |                             |
 | -----------                   | ------------------------ | --------------------------- |
 | All posts grouped by category | [Source][category-array] | [Demo][category-array-demo] |
-| All posts grouped by tags     | [Source][tag-array]      | [Demo][tag-array-demo]      |
+| All posts grouped by tag     | [Source][tag-array]      | [Demo][tag-array-demo]      |
 
 [category-array]: https://github.com/{{ site.repository }}/blob/master/docs/_pages/category-archive.html
 [category-array-demo]: {{ "/categories/" | absolute_url }}
@@ -315,7 +315,7 @@ sidebar:
 **ProTip:** If you're applying the same navigation list to several pages setting it as a [Front Matter default](https://jekyllrb.com/docs/configuration/#front-matter-defaults) is the better option.
 {: .notice--info}
 
-The theme's documentation is built with the `nav_list` helper so if you'd like an example to dissect take a look at `navigation.yml`, `_config.yml` and `_doc` collection in the [`/docs/`] folder(https://github.com/{{ site.repository }}/tree/master/docs/) of this repo.
+The theme's documentation is built with the `nav_list` helper so if you'd like an example to dissect take a look at `navigation.yml`, `_config.yml` and `_doc` collection in the [`/docs/` folder](https://github.com/{{ site.repository }}/tree/master/docs/) of this repo.
 
 To add a navigation list to a post or page's main content instead of the sidebar use the include this way:
 
