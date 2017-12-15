@@ -11,7 +11,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en-US"
 title                    : "Kyle Skrinak"
 title_separator          : "|"
-name                     : "Kyle Skrinak"
+name                     : "The 411 on Kyle Skrinak, 9 &ndash; 5"
 description              : "Kyle Skrinak, IT Manager at the Trinity College of Arts &amp; Sciences, for Duke University"
 url                      : "https://people.duke.edu" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/~kds38" # the subpath of your site, e.g. "/blog"
@@ -66,7 +66,7 @@ facebook:
   username               : "kyle.skrinak"
   app_id                 :
   publisher              :
-og_image                 : # Open Graph/Twitter default site image
+og_image                 : /images/OG_Selfie.jpg?q=20171215
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
