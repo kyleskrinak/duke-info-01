@@ -2,6 +2,9 @@
 title: DrupalCon Nashville 2018 -- Higher Education Summit Notes
 comments: true
 date: 2018-04-07 12:36 -0400
+toc: true
+toc_label: "Session quick links"
+toc_icon: "cog"
 ---
 
 I will be leading two sessions at the [DrupalCon Higher Education Summit](https://events.drupal.org/nashville2018/higher-ed-summit) on Monday, April 8th, 2018, and I&rsquo;m using this post for my preparation notes.
@@ -18,6 +21,7 @@ I will be leading two sessions at the [DrupalCon Higher Education Summit](https:
 * **Volunteers for note-keeping**  
 *(Google docs allows for multiple authors. The more the merrier)*
 * **Introductions**   
+* What is Continuous Integration / Continuous Development (CI/CD)? What is it NOT?
 Tell us your name, title, what you do, and your efforts at CI/CD so far?
 * **What are the tools of CI/CD?** What are you using?  
 At Duke's Trinity School of Arts &amp; Sciences, we're using [gitlab-ci](https://about.gitlab.com/features/gitlab-ci-cd/). We have used Jenkins, we still have a 2-year old Jenkins server, but we prefer gitlab-ci.
@@ -41,6 +45,7 @@ Led by my fellow Dukie, [Joel,](http://joelcrawfordsmith.com/) with whom we coll
 *(Google docs allows for multiple authors. The more the merrier)*
 * **Introductions**   
 Tell us your name, title, what you do, and your efforts at security so far?
+* Why “Holistic?” 
 * **What are the tools and means of Security?** What are you using?  
 This is a multi-pronged front:
     * Policy and Governance
@@ -48,8 +53,10 @@ This is a multi-pronged front:
     * Firewall
     * OS
     * Stack
-    * Third-party integrations
+    * Third-party integrations, events, faculty profiles, courses
+    * Third-party vendor-built websites
     * Drupal
+    * Scanning, such as NetSparker
 * How have your efforts evolved over the years?
 * What benefits have you seen because of your efforts?  
 How would you like to extend or enhance your security?
