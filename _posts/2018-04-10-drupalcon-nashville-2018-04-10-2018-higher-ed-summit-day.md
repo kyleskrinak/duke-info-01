@@ -9,7 +9,7 @@ toc_icon: "cog"
 
 ## Dries Keynote
 
-### Back to roots
+### TL;DR: Back to roots
 * User facing changes addressing poor experience for new users installing Drupal
 * CMI changes, composer changes, removing it as a requirement, but make it a best practice, longer period between updates
 * Improving non-technical perception of Drupal
@@ -18,8 +18,9 @@ toc_icon: "cog"
 
 * **Pantheon** 
     * After several failed starts, I met with a chief-something or other, which led to a discussion with Josh Koenig, Co-founder, and John Sepassi, Platform Sales Rep. We discussed our multi-site workflow and some advantages with the Pantheon workflow. This includes full use of a CDN and performance analysis tools.
-* **Kanopi Studios** -- an agency that helps with website builds
-* **Kwall** -- an agency that helps with website builds
+    * Of course there’s much to like in Pantheon’s offerings. With Drupal 7, their value proposition was less attractive, since we’ve done so well with standing up multisite on our own servers. Drupal 8’s adoption of modern CI/CD changes this dynamic, as we’re learning. However, the cost for Pantheon is significant, so much so that I remain “only looking.”
+* **Kanopi Studios** -- They popped up on my radar via a LinkedIn message. They are an agency that helps with website builds.
+* **Kwall** -- an agency that helps with website builds. They were located off-site at a coffee shop about a half-mile from the convention. Met with Alex Reed and Kevin Wall, discussed the nature of higher ed website projects and requirements.
 
 ## [Horizontal DevOps ~ Scale your team and tools across projects.](https://events.drupal.org/nashville2018/sessions/horizontal-devops)
 
@@ -27,7 +28,7 @@ toc_icon: "cog"
   * This makes sense for groups with varying hosting and stack configuration requirements
   * Circle CI dependency
 
-### I like these guidances 
+### Some guidances 
 * Use Semantic versioning
 * Package managers for distros
 * Keep documentation current

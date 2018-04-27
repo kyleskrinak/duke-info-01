@@ -11,13 +11,17 @@ toc_icon: "cog"
 
 * Converting vb-script site to a modern, responsive heterogeneous site with Drupal 8
 * Good mix of heterogeneous systems to produce a modern and robust content website, including static pages
+* [This blog post](https://evolvingweb.ca/blog/profiling-and-optimizing-drupal-migrations-blackfire) echos much of this keynote discussion
+
 
 ## Accessibility Panel
 
 * Training content editors
     * Incentivize training?
     * Clarifying roles for responsibility
+* How the [OCR](https://www.hhs.gov/ocr/index.html) is impacting our response, and assigning priorities
+* Everyone wants accessibility, but funding implementation efforts remains problematic
 
-## CI/CD Session (by me)
+See my preparation links for more details on my notes for the day [here]({{ site.baseurl }}/drupalcon-nashville-2018/)
 
-* First item
+Event page for [Higher Ed Summit](https://events.drupal.org/nashville2018/higher-ed-summit)
