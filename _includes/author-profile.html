@@ -177,6 +177,14 @@
         </li>
       {% endif %}
 
+      {% if author.drupal %}
+        <li>
+          <a href="https://drupal.com/{{ author.drupal }}" itemprop="sameAs">
+            <i class="fab fa-fw fa-drupal" aria-hidden="true"></i> Drupal
+          </a>
+        </li>
+      {% endif %}
+
       {% if author.pinterest %}
         <li>
           <a href="https://www.pinterest.com/{{ author.pinterest }}" itemprop="sameAs">
