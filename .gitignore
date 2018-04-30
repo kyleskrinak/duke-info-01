@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 *.gem
 *.sublime-project
 *.sublime-workspace
@@ -13,3 +14,16 @@ codekit-config.json
 example/_site
 node_modules
 npm-debug.log*
+=======
+_site
+.DS_Store
+.jekyll
+.jekyll-metadata
+.bundle
+.sass-cache
+*.swp
+Gemfile
+Gemfile.lock
+node_modules
+package.json
+>>>>>>> origin
