@@ -2,9 +2,14 @@
 title: DrupalCon Nashville 2018 -- 04-11-2018 Wednesday
 comments: true
 date: 2018-04-11 09:00 -0500
+categories:
+  - Drupal
+tags:
+  - Drupalcon Nashville 2018
 toc: true
 toc_label: "Session quick links"
 toc_icon: "cog"
+
 ---
 
 ## [Keynote: Drupal and the secret of my success &mdash; Steve Francia](https://events.drupal.org/nashville2018/keynote-drupal-and-secret-my-success)

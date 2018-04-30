@@ -1,6 +1,10 @@
 ---
 title: Drupal @ Duke meetup notes
 comments: true
+categories:
+  - Drupal
+tags:
+  - Drupal @ Duke
 ---
 
 Here are my hastily-assembled thoughts on Drupal 8 for 2017 at Trinity Technology Services.

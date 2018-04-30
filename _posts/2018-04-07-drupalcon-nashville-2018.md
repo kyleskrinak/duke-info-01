@@ -2,6 +2,10 @@
 title: DrupalCon Nashville 2018 -- Higher Education Summit Notes
 comments: true
 date: 2018-04-07 12:36 -0400
+categories:
+  - Drupal
+tags:
+  - Drupalcon Nashville 2018
 toc: true
 toc_label: "Session quick links"
 toc_icon: "cog"

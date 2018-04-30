@@ -2,6 +2,10 @@
 title: DrupalCon Nashville 2018 -- 04-10-2018 Tuesday
 comments: true
 date: 2018-04-10 08:57 -0500
+categories:
+  - Drupal
+tags:
+  - Drupalcon Nashville 2018
 toc: true
 toc_label: "Session quick links"
 toc_icon: "cog"

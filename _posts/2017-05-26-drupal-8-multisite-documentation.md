@@ -1,6 +1,10 @@
 ---
 title: Drupal 8 Multisite documentation
 comments: true
+categories:
+  - Drupal
+tags:
+  - Multisite
 ---
 
 

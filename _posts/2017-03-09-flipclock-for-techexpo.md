@@ -1,6 +1,10 @@
 ---
 title: Flipclock for TechExpo
 comments: true
+categories:
+  - Javascript
+tags:
+  - TechExpoX 2017
 ---
 
 <script
