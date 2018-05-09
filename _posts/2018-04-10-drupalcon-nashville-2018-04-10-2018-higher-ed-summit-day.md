@@ -14,7 +14,12 @@ toc_icon: "cog"
 ## Dries Keynote
 
 ### TL;DR: Back to roots
-* User facing changes addressing poor experience for new users installing Drupal
+* New in 8.5
+  * Media and content moderation
+  * Stable upgrade path to D8
+  * Simplified site building
+  * API-first focus
+* User facing changes to better address poor installation experience for new users who wish to try Drupal
 * CMI changes, composer changes, removing it as a requirement, but make it a best practice, longer period between updates
 * Improving non-technical perception of Drupal
 

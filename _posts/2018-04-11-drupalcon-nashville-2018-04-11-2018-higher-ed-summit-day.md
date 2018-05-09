@@ -25,7 +25,7 @@ toc_icon: "cog"
   * Open Source
   * Collaborative Development
   * Community Engagement
-* Don’t stop
+* Steve’s message: Don’t stop
 
 ### Summary
 
