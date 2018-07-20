@@ -15,7 +15,7 @@
 
 theme                    : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "skrinak" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
@@ -31,7 +31,7 @@ teaser                   : # path of fallback teaser image, e.g. "/assets/images
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "staticman_v2" "custom"
+  provider               : "disqus" # false (default), "disqus", "discourse", "# facebook", "google-plus", "staticman", "staticman_v2" "custom"
   disqus:
     shortname            : "kds38-duke-blog" # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
@@ -83,7 +83,7 @@ naver_site_verification  :
 twitter:
   username               :
 facebook:
-  username               : "kyle.skrinak"
+  username               : # "kyle.skrinak"
   app_id                 :
   publisher              :
 og_image                 : /images/OG_Selfie.jpg?q=20171215
