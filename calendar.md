@@ -1,10 +1,9 @@
 ---
-title: Kyle Skrinak’s Calendar
+title: My calendar
 layout: default 
 permalink: /calendar
 ---
-
-# Kyle Skrinak’s Calendar
+# My calendar
 
 Please note: the outlook calendar may take up to 20 seconds to load.
 

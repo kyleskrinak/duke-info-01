@@ -109,53 +109,38 @@ author:
   avatar           : "https://s.gravatar.com/avatar/ff8a556b0c640770c8e933d7b5f57631?s=80"
   bio              : "IT Manager, Web Development and Systems Administration, for <a href=\"http://trinity.duke.edu\" title=\"Trinity&rsquo;s web site\">Trinity College of Arts &amp; Sciences Technology Services</a>, <a href=\"http://duke.edu\" title=\"Duke&rsquo;s web site\">Duke University</a>"
   location         : "<a style=\"display: inline-block\" href=\"https://goo.gl/maps/8TmAf96K2M82\">Durham, NC</a>"
-  email            : "kyle.skrinak@duke.edu"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  drupal           : "screenack"
-  flickr           : "screenack"
-  facebook         :
-  foursquare       :
-  github           : "kyleskrinak"
-  gitlab           :
-  google_plus      :
-  keybase          :
-  instagram        :
-  lastfm           :
-  linkedin         : "kyleskrinak"
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : "479709/screenack" # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
-  steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
-  tumblr           :
-  twitter          : "screenack"
-  vine             :
-  weibo            :
-  xing             :
-  youtube          : # "https://youtube.com/c/MichaelRoseDesign"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:your.name@email.com
+      url: mailto:kyle.skrinak@duke.edu
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+      url: "https://twitter.com/screenack"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://linkedin.com/in/kyleskrinak"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/kyleskrinak"
+    - label: "Drupal"
+      icon: "fab fa-fw fa-drupal"
+      url: "https://www.drupal.org/u/screenack"
+    - label: "StackOverflow"
+      icon: "fab fa-fw fa-stack-overflow"
+      url: "https://www.stackoverflow.com/users/479709/screenack"
+    - label: "Flickr"
+      icon: "fab fa-fw fa-flickr"
+      url: "https://www.flickr.com/photos/screenack"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
 
+# Site Footer
 footer:
   links:
     - label: "Twitter"

@@ -12,4 +12,12 @@ My office is at **905 West Main Street** in bustling Durham, NC. We are located 
 <iframe src="https://www.google.com/maps/d/embed?mid=1KivZ4VyNj0Lyb54qmBK9_CdY370" width="100%" height="480"></iframe>
 </div>
 
+## Office Address
+Duke University  
+Trinity Technology Services  
+905 West Main Street, Box 41  
+Suite 25B  
+PO 90419  
+Durham, NC 27701  
+Phone: 919 684 9162
 
