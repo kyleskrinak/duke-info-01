@@ -1,12 +1,13 @@
-<<<<<<< HEAD
 *.gem
 *.sublime-project
 *.sublime-workspace
 *.swp
 .DS_Store
 .bundle
+.jekyll
 .jekyll-metadata
 .sass-cache
+Gemfile
 Gemfile.lock
 _asset_bundler_cache
 _site
@@ -14,17 +15,5 @@ codekit-config.json
 example/_site
 node_modules
 npm-debug.log*
-=======
-_site
-.DS_Store
-.jekyll
-.jekyll-metadata
-.bundle
-.sass-cache
-*.swp
-Gemfile
-Gemfile.lock
-node_modules
 package.json
 vendor
->>>>>>> origin
