@@ -1,7 +1,7 @@
 ---
 title: My calendar
 layout: default 
-permalink: /calendar
+permalink: /pages/calendar.html
 ---
 # My calendar
 

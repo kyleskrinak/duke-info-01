@@ -6,7 +6,6 @@ categories:
   - Drupal
 tags:
   - Drupalcon Nashville 2018
-
 ---
 
 Below is my list of videos to catch up on DrupalCon Nashville 2018. The first is the youtube embed of my public playlist, followed by the exported links for non-js browsers.

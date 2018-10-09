@@ -4,3 +4,10 @@
 
 /* Colors */
 $background-color: transparent !default;
+
+/* help with the hover nav */
+#site-nav.greedy-nav {
+  .hidden-links {
+    background-color: white;
+  }
+}

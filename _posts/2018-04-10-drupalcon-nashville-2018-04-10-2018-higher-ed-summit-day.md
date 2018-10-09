@@ -50,7 +50,7 @@ toc_icon: "cog"
 * Using the tour module to provide user tips to sites
 * Low value for us, given our distribution and support model, but smart for bespoke site design
 
-## [Integration of Drupal Coding standards with Git hooks](Integration of Drupal Coding standards with Git hooks)
+## [Integration of Drupal Coding standards with Git hooks](https://events.drupal.org/nashville2018/sessions/integration-drupal-coding-standards-github-hooks)
 
 * Using for running standard checks when committing code 
 * Client and Server side hooks

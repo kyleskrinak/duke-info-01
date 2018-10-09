@@ -1,16 +1,16 @@
 # main links
 main:
   - title: "Calendar"
-    url: /calendar
+    url: /pages/calendar.html
 
   - title: "Location"
-    url: /location
+    url: /pages/location.html
 
   - title: "Drupal"
-    url: /tts-drupal
+    url: /pages/tts-drupal.html
 
   - title: "LCHF"
-    url: /lchf
+    url: /pages/my-lchf.html
 
   - title: "Archive"
     url: /year-archive

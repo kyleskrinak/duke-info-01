@@ -3,7 +3,7 @@ title: Drupal
 # toc: true
 # toc_sticky: true
 layout: single 
-permalink: /tts-drupal
+permalink: /pages/tts-drupal.html
 author_profile: true
 excerpt: "My thoughts on all things academic Drupal development and management"
 categories:

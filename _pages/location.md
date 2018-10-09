@@ -1,7 +1,7 @@
 ---
 title: Office Location
 layout: single 
-permalink: /location
+permalink: /pages/location.html
 author_profile: true
 ---
 
