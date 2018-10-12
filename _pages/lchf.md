@@ -6,6 +6,7 @@ layout: single
 permalink: /pages/my-lchf.html
 author_profile: true
 excerpt: "Many ask me if I’ve lost weight. I have and here’s how."
+comments: true
 categories:
   - lchf
 header:
