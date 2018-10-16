@@ -1,5 +1,5 @@
 ---
-layout: lchf-posts
+layout: lchf-single
 title: From My Wife’s Kitchen
 categories:
   - lchf

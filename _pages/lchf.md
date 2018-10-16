@@ -55,11 +55,23 @@ I came for the weight-loss and found a healthier way of living.
 * Dr. Eric C Westman’s [ Scholars@Duke profile ](https://scholars.duke.edu/person/ewestman "Dr Westman's Scholars at Duke profile page")
 * Dr. Westman's [Heal Clinics](https://healclinics.com/ "Heal Clinics home page") initiative.
 * Dr. Westman's [Facebook group](https://www.facebook.com/groups/DukeLowCarbSupportGroup "Dr. Westman's facebook group page") page.
-* [Adapt Your Life](https://www.adaptyourlife.com "Adapt Your Life weblink") shares LCHF information with the public.
+* [Adapt Your Life](https://www.adaptyourlife.com "Adapt Your Life weblink") shares LCHF information with the public, with Dr. Westman and others in the medical or scientific community leading on various related topics. They maintain an active [YouTube channel](https://www.youtube.com/channel/UCni9TCw0YPwTdu7BYF3j0Eg "Ask Adapt YouTube video channel.") as well.
 * [DietDoctor](https://www.dietdoctor.com "DietDoctor website") 
   * From their website; “Our mission is to find the latest and most trustworthy science and practical knowledge about health, make it inspiring and simple to use, and accessible and free for everyone – thus empowering people everywhere to revolutionize their health.”
-* The Two Keto Dudes [podcast](http://2ketodudes.com/ "2Ketodudes podcast") and [forum](https://www.ketogenicforums.com "Two Keto Dudes online forum").
+* The **Two Keto Dudes** [podcast](http://2ketodudes.com/ "2Ketodudes podcast") and [forum](https://www.ketogenicforums.com "Two Keto Dudes online forum").
   * In their zeal to promote the Keto lifestyle and their basis towards evidence-based claims, they tend to over-complicate LCHF. Once you have a solid footing in LCHF/Keto, they are an excellent resource.
+
+### Podcasts
+* The **Ketogenic Athlete** [podcast](https://theketogenicathlete.com/category/podcast/ "The Ketogenic Athlete podcast link"). One can usually safely skip the first third of this podcast, unless you like hearing the random thoughts of two good friends. Otherwise, I like their focus on the “whole person” and not just the performance aspect of how LCHF and being active intersect.
+* **Diet Doctor** has started a bi-weekly podcast September 1, 2018, hosted by [Dr. Bret Scher](https://www.dietdoctor.com/authors/dr-bret-scher "Dr. Bret Scher's bio page on DietDoctor.com"), focusing on LCHF topics.  
+
+### Books and Authors
+
+* Anything by [Gary Taubes](http://garytaubes.com/ "Gary Taubes' personal website").
+  *  If you only read one work of his, make it his New York Times article [“What If It's All Been a Big Fat Lie?”](https://www.nytimes.com/2002/07/07/magazine/what-if-it-s-all-been-a-big-fat-lie.html "Gary Taubes' launching salvo against the standard american diet") This article kicked off wider acknowledgement that we were dangerously down the wrong path on the science and practice of nutrition.
+* Anything by [Nina Teicholz](https://ninateicholz.com/ "Nina Teicholz's personal website")
+  * I highly recommend her book, [“THE BIG FAT SURPRISE; Why Butter, Meat & Cheese Belong in a Healthy Diet”](https://thebigfatsurprise.com/ "website for her Big Fat Surprise book") which explains how we got here, and offers possible remedies.
+  * The [Low Carb Down Under](https://www.youtube.com/channel/UCcTTiHZtNpiqD2EubIO5HFw "The Low Carb Down Under YouTube Channel") YouTube channel has Nina presenting a quick summary of her book [here](https://www.youtube.com/watch?v=Q2UnOryQiIY "Nina Teicholz presenting on vegetable fats"). It's well worth watching, but the book provides far greater context and important details worth reading.
 
 ## My most recent LCHF-related posts
 
