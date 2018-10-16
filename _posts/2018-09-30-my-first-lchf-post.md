@@ -1,5 +1,5 @@
 ---
-layout: lchf-single
+layout: single
 title: From My Wife’s Kitchen
 categories:
   - lchf
