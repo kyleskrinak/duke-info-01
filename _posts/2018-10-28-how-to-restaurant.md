@@ -77,6 +77,6 @@ When life happens, what to do? Remember the axiom, less is more? That's right, d
 Remember, we're not dogs. We don't have to reward ourselves with food, nor eat it because we see it.
 {: .notice--info}
 
-It’s that simple. If they have real butter, they are the real deal.
+It’s that simple. If they have real butter, they are the real deal. I would like to think that LCHF’er and foodie, alike, would agree on this?
 
-What are your challenges when dining out?
+What are your challenges when dining out? Has butter been your culinary touchstone?
